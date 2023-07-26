@@ -1,0 +1,29 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.2.32602.215
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "WindowsFormsApp1", "WindowsFormsApp1\WindowsFormsApp1.csproj", "{8695F537-0094-461F-ACCB-9D61409E1730}"
+EndProject
+Project("{54435603-DBB4-11D2-8724-00A0C9A8B90C}") = "AdalyaAraçTakipSetup", "..\AdalyaAraçTakipSetup\AdalyaAraçTakipSetup.vdproj", "{3A0BA817-0C49-45EA-A568-DBFD0A9497F5}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{8695F537-0094-461F-ACCB-9D61409E1730}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{8695F537-0094-461F-ACCB-9D61409E1730}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{8695F537-0094-461F-ACCB-9D61409E1730}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{8695F537-0094-461F-ACCB-9D61409E1730}.Release|Any CPU.Build.0 = Release|Any CPU
+		{3A0BA817-0C49-45EA-A568-DBFD0A9497F5}.Debug|Any CPU.ActiveCfg = Debug
+		{3A0BA817-0C49-45EA-A568-DBFD0A9497F5}.Release|Any CPU.ActiveCfg = Release
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {F25E76AF-DFD9-459F-B2F3-0B19469E3F7D}
+	EndGlobalSection
+EndGlobal
